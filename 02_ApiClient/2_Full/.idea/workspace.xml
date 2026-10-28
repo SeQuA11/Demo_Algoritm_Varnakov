@@ -4,14 +4,67 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7fed0175-5bbc-43fb-906c-ff20564a6ddc" name="Changes" comment="" />
+    <list default="true" id="7fed0175-5bbc-43fb-906c-ff20564a6ddc" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../01_FunctionalLogic/1_Calculator/.gigaide/gigaide.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../01_FunctionalLogic/1_Calculator/.gigaide/gigaide.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01_FunctionalLogic/1_Calculator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../01_FunctionalLogic/1_Calculator/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01_FunctionalLogic/1_Calculator/target/classes/app/CalculatorApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../01_FunctionalLogic/1_Calculator/target/classes/app/CalculatorApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01_FunctionalLogic/1_Calculator/target/classes/app/Launcher.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../01_FunctionalLogic/1_Calculator/target/classes/app/Launcher.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01_FunctionalLogic/2_NameList/.gigaide/gigaide.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../01_FunctionalLogic/2_NameList/.gigaide/gigaide.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01_FunctionalLogic/2_NameList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../01_FunctionalLogic/2_NameList/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01_FunctionalLogic/2_NameList/target/classes/app/Launcher.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../01_FunctionalLogic/2_NameList/target/classes/app/Launcher.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01_FunctionalLogic/2_NameList/target/classes/app/NameListApp$Change.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../01_FunctionalLogic/2_NameList/target/classes/app/NameListApp$Change.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01_FunctionalLogic/2_NameList/target/classes/app/NameListApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../01_FunctionalLogic/2_NameList/target/classes/app/NameListApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01_FunctionalLogic/2_NameList/target/classes/app/NameRules.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../01_FunctionalLogic/2_NameList/target/classes/app/NameRules.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1_ApiOnly/.gigaide/gigaide.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1_ApiOnly/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1_ApiOnly/.idea/amplicode-jpa.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1_ApiOnly/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1_ApiOnly/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1_ApiOnly/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1_ApiOnly/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1_ApiOnly/.idea/runConfigurations/Launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1_ApiOnly/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1_ApiOnly/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1_ApiOnly/src/main/java/app/ApiApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1_ApiOnly/src/main/java/app/DataType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1_ApiOnly/src/main/java/app/Launcher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1_ApiOnly/target/classes/app/ApiApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1_ApiOnly/target/classes/app/DataType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1_ApiOnly/target/classes/app/Launcher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gigaide/gigaide.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/amplicode-jpa.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/Launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/app/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/app/DataType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/app/Launcher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/captcha/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/captcha/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/captcha/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/captcha/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/app/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/app/DataType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/app/Launcher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/captcha/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/captcha/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/captcha/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/captcha/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/users.db" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="GradleModuleStateConfig" initialized="true" />
   <component name="ProjectColorInfo">{
@@ -24,13 +77,14 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Launcher.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/КР/2_Full",
+    "last_opened_file_path": "C:/Repositories/Demo_Algoritm_Varnakov/02_ApiClient/2_Full",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.0",
